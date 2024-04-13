@@ -1,0 +1,4 @@
+TransactionID,Amount,Date,Type,GuestID
+1,"$7,974.64 ",4/11/2024,Bank Transfer,1
+2,"$8,631.78 ",4/12/2024,Paypal,2
+3,"$6,162.74 ",4/10/2024,Cash,3

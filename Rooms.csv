@@ -1,0 +1,4 @@
+RoomID,Type,Price,Status,GuestID
+1,Double,$64.18 ,Reserved,1
+2,Deluxe,$80.56 ,Not reserved,2
+3,Single,$12.19 ,Reserved,3

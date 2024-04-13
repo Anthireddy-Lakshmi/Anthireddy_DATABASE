@@ -1,0 +1,4 @@
+ReservationID,CheckInDate,CheckOutDate,Status,RoomID,GuestID
+1,1/29/2024,1/15/2024,Not reserved,1,1
+2,2/6/2024,2/14/2024,Not reserved,2,2
+3,3/7/2024,1/9/2024,Not reserved,3,3
